@@ -45,3 +45,18 @@
     background-color: white;
 }
 
+.footer {
+    color: #a4a4a4;
+}
+
+.img_monitor {
+    background-image: url('../img/monitor.jpg');
+ 
+    background-attachment: fixed;
+    background-size: 400px , 400px ;
+    
+}
+
+
+
+
